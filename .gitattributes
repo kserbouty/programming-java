@@ -9,7 +9,5 @@
 *.png               binary
 
 # Configuration
-*.iml               text
-*.xml               text
 .gitattributes      text
 .gitignore          text
