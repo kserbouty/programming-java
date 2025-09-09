@@ -16,12 +16,16 @@
         <img src="https://img.shields.io/badge/openjdk-temurin-FF1464?style=flat&logo=openjdk"
         alt="openjdk-temurin" /></a>
     <a href="./LICENSE.md">
-        <img src="https://img.shields.io/badge/license-mit-181717?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/license-mit-lightgrey?style=flat&logo=github"
         alt="mit-license" /></a>
-    <a href="https://gitlab.com/serbouty/algorithms">
+    <a href="https://github.com/serbouty/programming-java">
         <img src="https://img.shields.io/badge/status-backlog-lightgrey?style=flat&logo=github"
         alt="status-backlog" /></a>
 </p>
+
+## About
+
+Approach to the traditional CS1 curriculum with Java, coauthored by [Robert Sedgewick](https://www.cs.princeton.edu/people/profile/rs) and [Kevin Wayne](https://www.cs.princeton.edu/people/profile/wayne) at Princeton University.
 
 ## Documentation
 
