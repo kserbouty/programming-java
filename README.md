@@ -17,7 +17,7 @@
         alt="openjdk-temurin" /></a>
     <a href="./LICENSE.md">
         <img src="https://img.shields.io/badge/license-mit-lightgrey?style=flat&logo=github"
-        alt="mit-license" /></a>
+        alt="license-mit" /></a>
     <a href="https://github.com/serbouty/programming-java">
         <img src="https://img.shields.io/badge/status-backlog-lightgrey?style=flat&logo=github"
         alt="status-backlog" /></a>
@@ -35,8 +35,7 @@ Approach to the traditional CS1 curriculum with Java, coauthored by [Robert Sedg
 
 ### External Links
 
-- [Java® Platform, SE & JDK
-  Version 21 API Specification](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
+- [Oracle: JDK 21 Documentation](https://docs.oracle.com/en/java/javase/21/)
 
 ## Roadmap
 
