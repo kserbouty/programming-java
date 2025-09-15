@@ -25,7 +25,7 @@
 
 ## About
 
-Approach to the traditional CS1 curriculum with Java, with materials from science to internet commerce.
+Approach to the traditional CS1 curriculum, using Java with materials from science to internet commerce.
 
 Textbook coauthored by [Robert Sedgewick](https://www.cs.princeton.edu/people/profile/rs) and [Kevin Wayne](https://www.cs.princeton.edu/people/profile/wayne) at Princeton University.
 
