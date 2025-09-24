@@ -29,7 +29,7 @@ Approach to the traditional CS1 curriculum, using Java with materials from scien
 
 Textbook coauthored by [Robert Sedgewick](https://www.cs.princeton.edu/people/profile/rs) and [Kevin Wayne](https://www.cs.princeton.edu/people/profile/wayne) at Princeton University.
 
-## Support
+## Resources
 
 - [Introduction to Programming in Java, 2nd Edition (Princeton)](https://introcs.cs.princeton.edu/java/home/)
 - [Java SE 21 & JDK 21 API Specification (Oracle)](https://docs.oracle.com/en/java/javase/21/)
