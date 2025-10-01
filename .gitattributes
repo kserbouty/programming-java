@@ -5,8 +5,11 @@
 *.java              text diff=java
 
 # Configuration
+*.iml               text
+*.xml               text
 .gitattributes      text
 .gitignore          text
+.idea/.gitignore    text
 
 # Documentation
 *.md                text diff=markdown
