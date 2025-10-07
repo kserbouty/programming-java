@@ -1,0 +1,14 @@
+# Default
+*                   text=auto
+
+# Scripts
+*.java              text diff=java
+
+# Configuration
+*.xml               text
+.gitattributes      text
+.gitignore          text
+
+# Documentation
+*.md                text diff=markdown
+*.png               binary
